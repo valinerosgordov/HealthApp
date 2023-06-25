@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "790064729077",
+    "project_id": "way-to-health-b4b8f",
+    "storage_bucket": "way-to-health-b4b8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790064729077:android:2278a2576d80c28d3a6ebc",
+        "android_client_info": {
+          "package_name": "com.waytohealth.health_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790064729077-uu8i99hb6h21cigb5ss2cmbjt8s6ju6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waytohealth.health_app",
+            "certificate_hash": "8c8161f6f89c2e0f9b93cfd730326697c3748938"
+          }
+        },
+        {
+          "client_id": "790064729077-kd5ngeolqeke97dfu3he7aa7fc36eaak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK1n079983ocT5bbtCIlYQVChIZqmJ3RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790064729077-kd5ngeolqeke97dfu3he7aa7fc36eaak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

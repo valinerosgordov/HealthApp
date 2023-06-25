@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>790064729077-rchb8l6os5r5no9re6lqeb52m2hjrno3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.790064729077-rchb8l6os5r5no9re6lqeb52m2hjrno3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>790064729077-2kf1uq0h06ie42mpoquod0iqh689f6ph.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBzD3OqMv79CU1lVDq0mGgMkos4pBG2wTA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>790064729077</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.waytohealth.healthApp</string>
+	<key>PROJECT_ID</key>
+	<string>way-to-health-b4b8f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>way-to-health-b4b8f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:790064729077:ios:02ea9837df051f0f3a6ebc</string>
+</dict>
+</plist>
